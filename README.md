@@ -1,0 +1,2 @@
+# Tally-Smart-Alerts-Sistema-inteligente-de-notifica-es-integra-o-por-API-e-alertas-contextuais
+O Tally Smart Alerts conecta formulários Tally ao n8n para gerar alertas e notificações inteligentes em smartwatches e celulares. O sistema classifica respostas, agenda lembretes de datas e calcula proximidade. Com foco na LGPD e segurança, transforma dados em resumos operacionais e insights via IA, direto no seu repositório GitHub.
